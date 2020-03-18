@@ -1,4 +1,5 @@
 kafka.bootstrapServer: apbaz1d01583:9092
+
 localhost:8080/kafka/publish/mymessagehere
 
 Configuration
